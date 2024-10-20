@@ -1,0 +1,9 @@
+├── reactproject/        # All React-based projects
+│   └── my-react-app/    # Example React project
+├── cppalgorithms/       # C++ algorithms and solutions
+│   └── sorting-algorithms/ # Sorting algorithms implemented in C++
+├── jsprojects/          # JavaScript-based projects
+│   └── todo-app/        # Example To-Do list project in vanilla JS
+├── pythonproject/       # Python-based projects
+│   └── data-analysis/   # Example data analysis project in Python
+└── CONTRIBUTING.md      # Contribution guidelines
